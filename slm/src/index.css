@@ -1,0 +1,22 @@
+.div{
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+justify-content: center;
+align-items: center;
+margin: auto;
+  margin-top: 200px;
+}
+input{
+  margin-left: 10px;
+}
+button{
+  margin-left: 10px;
+  background-color: aquamarine;
+
+}
+.checkbox{
+margin-left: -195px;
+margin-top: 10px;
+
+}
